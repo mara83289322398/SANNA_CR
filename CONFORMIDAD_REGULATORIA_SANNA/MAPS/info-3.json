@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/SWRfFg6cnTDwaN4d9",
+  "nombre": "SANNA \\ Clínica San Borja",
+  "ubicacion": "Av. Guardia Civil 337, San Borja 15036",
+  "rating_global": "2.9",
+  "total_reviews": "2",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–6:30 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–6:30 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–6:30 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–6:30 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–6:30 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–1:30 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "Cerrado"
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(01) 6355000",
+    "referencia": "WX5R+6J San Borja"
+  },
+  "reviews": [
+    {
+      "author": "Enrique Mejía Ragas",
+      "rating": "5",
+      "date": "Hace 2 meses",
+      "text": "Fui para un examen de rutina, vengo atendiéndome en el golf hace años sin inconvenientes.\nPero esta sede NECESITA capacitar bien a su personal. Era increíble la cantidad…",
+      "photos": 6,
+      "likes": "0"
+    },
+    {
+      "author": "Halyna Shmyhelska",
+      "rating": "5",
+      "date": "Hace un mes",
+      "text": "Muy decepcionada con la atención en emergencias de la Clínica Sanna San Borja\n\nEl día lunes 20 de mayo a las 8:15 p.m. acudí por una bronquitis grave, con…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Anna Karina Pérez Pabón",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "Pésimo servicio!!!!\n\n1. Me obligaron a pagar una consulta por adelantado para poder realizar un…",
+      "photos": 11,
+      "likes": "0"
+    },
+    {
+      "author": "Luz María M. Sanabria Pérez",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "De las peores clínicas en cuestión de trato al cliente. De sus últimos cambios innovadores, si haces cola para caja y pagar una consulta, ahora las personas que atienden te dicen que no pueden cobrar y te mandan a un módulo autoservicio, el…",
+      "photos": 4,
+      "likes": "0"
+    },
+    {
+      "author": "RR& Solutions",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "Hace una semana llevé a mi hijo de 1 año y 9 meses a emergencia de pediatría en esta clínica, esperando recibir una atención de calidad. La experiencia fue terrible. La atención médica fue deficiente, y el personal parecía más preocupado…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Yosseline Campos",
+      "rating": "5",
+      "date": "Hace un mes",
+      "text": "La peor de la atenciones, sobre todo el personal de Emergencia!!!\nCero empatia de parte de enfermería y personal de laboratorio, totalmente desafiantes inclusive para invitarte a presentar tu reclamo al libro de reclamaciones.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "iris guillen",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "Atención horrible, el servicio de hospitalización horrible en 3 días no cambiaron sabanas ni toallas, me tocó pedir la comida de mi hijo, las enfermeras no siguen el tratamiento y tengo 2 semanas esperando un reembolso que debieron darme al…",
+      "photos": 15,
+      "likes": "0"
+    },
+    {
+      "author": "Daniel Pérez",
+      "rating": "5",
+      "date": "Fecha de edición: Hace 4 años",
+      "text": "El lugar se ve moderno aunque no parece tan grande según mi experiencia. Está ventilado y no muy lleno de gente. Hay wifi dentro de la clínica. Los precios son razonables para pacientes que tienen seguro y solo deben realizar copagos.…",
+      "photos": 61,
+      "likes": "0"
+    },
+    {
+      "author": "vajsax",
+      "rating": "5",
+      "date": "Hace un mes",
+      "text": "Hace un par de días acaba de salir un reportaje de un señor que fue operado en esa Clínica y que al parecer fue utilizado el lote defectuoso del Suero que ya ha matado gente, como es posible ésto??? Aun no lo han retirado de las Clínica??…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Ricardo Campos",
+      "rating": "5",
+      "date": "Hace 6 años",
+      "text": "Estuvimos unos días (4) por una intervención quirúrgica,tiempo suficiente para evaluar el servicio. La atención médica muy buena, el servicio de enfermeras en su mayoría atentas,por ahí una que otra un poco mal humorada. No nos gustó que las enfermeras,varias de ellas tenían síntomas de gripe.",
+      "photos": 110,
+      "likes": "0"
+    }
+  ]
+}

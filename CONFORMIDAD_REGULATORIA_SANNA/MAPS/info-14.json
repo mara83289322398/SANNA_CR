@@ -1,0 +1,79 @@
+{
+  "url": "https://maps.app.goo.gl/gZaVLwQhENpsd6NJA",
+  "nombre": "SANNA/Sede Moreras",
+  "ubicacion": "Las Moreras 430, Víctor Larco Herrera 13009",
+  "rating_global": "3.8",
+  "total_reviews": "3",
+  "info_adicional": {
+    "horarios": [],
+    "sitio_web": "sanna.pe",
+    "telefono": null,
+    "referencia": "VX96+P4 Víctor Larco Herrera"
+  },
+  "reviews": [
+    {
+      "author": "Claudio Tume Pulache",
+      "rating": "5",
+      "date": "Hace 4 semanas",
+      "text": "Muy buena atención!",
+      "photos": 9,
+      "likes": "0"
+    },
+    {
+      "author": "Luis Malpica",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "En ésta clínica ponen sus aires acondicionados al máximo en la zona de consultorios externos, al final sales resfriado. El servicio de 0 a 20 un 11.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Juan diego Kantuash santisteban",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "Buena atención",
+      "photos": 2,
+      "likes": "0"
+    },
+    {
+      "author": "jorge bonifaz bonilla",
+      "rating": "5",
+      "date": "Hace 9 meses",
+      "text": "La peor clínica",
+      "photos": 20,
+      "likes": "0"
+    },
+    {
+      "author": "Johnny Rojas",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Luis Antonio Pascual Plasencia",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "",
+      "photos": 3,
+      "likes": "0"
+    },
+    {
+      "author": "Kathye Plasencia Narro",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "",
+      "photos": 12,
+      "likes": "0"
+    },
+    {
+      "author": "JORGE RICARDO SOLARI CANAVAL",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "",
+      "photos": 0,
+      "likes": "0"
+    }
+  ]
+}

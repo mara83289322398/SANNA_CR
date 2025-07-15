@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/4UcmP8KCtwT3yLPXA",
+  "nombre": "SANNA \\ Centro Clínico La Molina",
+  "ubicacion": "Av. Raúl Ferrero N° 1256, La Molina 15024",
+  "rating_global": "3.2",
+  "total_reviews": "3",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "7 a. m.–7 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "7 a. m.–7 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "7 a. m.–7 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "7 a. m.–7 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "7 a. m.–7 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "7 a. m.–1 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "Cerrado"
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(01) 6355000",
+    "referencia": "W25X+WQ La Molina"
+  },
+  "reviews": [
+    {
+      "author": "Pedro Igarza",
+      "rating": "5",
+      "date": "Hace 7 meses",
+      "text": "Llegué a la clínica Sanna de Raúl Ferrero, La Molina a las 7.30 AM para chequeo preventivo y la atención de inicio a fin fue muy buena y rápida. En exactamente dos horas culminaron los exámenes. Cuentan con estacionamiento libre.",
+      "photos": 5,
+      "likes": "0"
+    },
+    {
+      "author": "María Fernanda Vilca",
+      "rating": "5",
+      "date": "Hace 3 meses",
+      "text": "Fui para el chequeo preventivo y la atención fue horrible. No son amables, tú tienes que ir a preguntar a las enfermeras si te van a llamar los doctores porque ellas no hacen ese trabajo, pareciera que les da flojera. La psicóloga que me…",
+      "photos": 6,
+      "likes": "0"
+    },
+    {
+      "author": "Alexandra Bueno Lizarraga",
+      "rating": "5",
+      "date": "Hace 3 años",
+      "text": "Pésima atención.\n- Me dieron mal la información por telefonía y me hicieron ir por gusto la primera fecha.…",
+      "photos": 32,
+      "likes": "0"
+    },
+    {
+      "author": "Las mil y una de Llulla y Buchi",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "Atienden bien. Fui para chequeo médico, pero no te atienden todo ahí, te mandan para mamografía a Chacarilla y ecografía me programaron en otra fecha. Y no incluyen RX torax",
+      "photos": 486,
+      "likes": "0"
+    },
+    {
+      "author": "julio vizcarra garcia",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "Muy mala atención no saludan no dan buena información ,no dicen ni gracias ,le tomaron una rx  a mi hijo nos hicieron esperan mas d e1 hora y no le pusieron el protector de rx ,muy mala atención nada recomendable",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Catherina Merino Monterrey",
+      "rating": "5",
+      "date": "Hace 5 meses",
+      "text": "Muy mala atención por parte de la ginecóloga Patricia Díaz 0minuciosa 0 empatica! Derrepente ese día estaba de muy mal humor!",
+      "photos": 5,
+      "likes": "0"
+    },
+    {
+      "author": "Alex Jesus Domínguez Reyes",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "Si hubiera la opción de poner 0 estrellas la pondría no se merecen ninguna estrella, pésima y mediocre atención desde las cajeras hasta la doctora que atiende, la que te toma la cita no te da información completa más está preocupada en la…",
+      "photos": 47,
+      "likes": "0"
+    },
+    {
+      "author": "Jose Soriano",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "De las peores experiencias que puedes tener en tu vida si lo que buscas es una atención de calidad, un centro medico en el cual no sólo impera la informalidad sino también la lentitud en procesos. Cabe resaltar que hay una persona de…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Victor Pereda Reyes",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "Hace un mes llevamos a mi suegra a Sanna de La Molina, que queda cerca de mi casa, pues presentaba un problema de indigestión con fiebre y, como es persona de edad avanzada necesitaba atención rápida. Comencé a llenar una serie de…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Marcela Chavez",
+      "rating": "5",
+      "date": "Hace 4 años",
+      "text": "Lo positivo es que hay buenos médicos y no va mucha gente. Ahí mismo sacan pruebas de laboratorio y ecografías. Lo que no me gusta es la atención de admisión/caja. Es muy lenta y, a veces, se genera desorden y mucha espera. Deberían implementar un estacionamiento para BICICLETAS, no hay donde amarrarlas.",
+      "photos": 11,
+      "likes": "0"
+    }
+  ]
+}

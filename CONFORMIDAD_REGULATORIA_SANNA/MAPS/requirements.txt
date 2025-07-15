@@ -1,0 +1,6 @@
+playwright
+pyodbc
+nltk
+textblob
+vaderSentiment
+spacy

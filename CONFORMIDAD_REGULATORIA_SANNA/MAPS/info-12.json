@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/h22ocf7B8GFo6PAx9",
+  "nombre": "SANNA \\ Centro Clínico Cajamarca",
+  "ubicacion": "Los Cedros 214, Cajamarca 06001",
+  "rating_global": "4.2",
+  "total_reviews": "4",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–7 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–7 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–7 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–7 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–7 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–1 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "Cerrado"
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(076) 749100",
+    "referencia": "VF2M+MP Cajamarca"
+  },
+  "reviews": [
+    {
+      "author": "Rudy Quichiz",
+      "rating": "5",
+      "date": "Fecha de edición: Hace 5 años",
+      "text": "Muy buena la calidad del servicio brindado. El personal es amable y te orientan de forma adecuada, los médicos se toman tiempo para explicarte bien sobre tu estado de salud, en líneas generales un buen centro de salud.",
+      "photos": 59,
+      "likes": "0"
+    },
+    {
+      "author": "Diana Odar",
+      "rating": "5",
+      "date": "Hace 7 años",
+      "text": "El centro médico es pequeño pero cuenta con prácticamente todas las especialidades, el personal que trabaja es muy profesional y brinda buen trato a los pacientes, las instalaciones son bastante cómodas y se encuentra ubicado en una zona tranquila de la ciudad",
+      "photos": 36,
+      "likes": "0"
+    },
+    {
+      "author": "Fernanda Cooper",
+      "rating": "5",
+      "date": "Hace 7 años",
+      "text": "Muy buena atención en las diferentes especialidades que brindan, la complicación en los pagos de las vacunas que solo te reciben efectivo, de lo contrario no puedes adquirirlas. Recomendado como centro medico, el servicio pediátrico más que recomendado.",
+      "photos": 75,
+      "likes": "0"
+    },
+    {
+      "author": "Junior Correa casanova",
+      "rating": "5",
+      "date": "Hace 5 años",
+      "text": "Excelente atención, muy buenos profesionales de la salud.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Glenn Diaz",
+      "rating": "5",
+      "date": "Hace 6 años",
+      "text": "Buena atención en salud, personal calificado y amabilidad en el trato",
+      "photos": 66,
+      "likes": "0"
+    },
+    {
+      "author": "mirja victoria ramon segura",
+      "rating": "5",
+      "date": "Hace 7 años",
+      "text": "El precio de consulta médica muy al alcance del bolsillo 40 soles y los médicos que atienden son de primera. Muy limpio y acogedor.",
+      "photos": 64,
+      "likes": "0"
+    },
+    {
+      "author": "Eduardo La Torre",
+      "rating": "5",
+      "date": "Hace 5 años",
+      "text": "Por un minuto, me dejaron fuera con mi hija con fiebre, muy mal, espero que mejoren sus procedimientos en estos casos.",
+      "photos": 10,
+      "likes": "0"
+    },
+    {
+      "author": "Nícolas Castillo",
+      "rating": "5",
+      "date": "Hace 8 años",
+      "text": "Excelente atención. Personal médico excelente y profesional. Precios accesibles. Lo mejor en Salud en Cajamarca.",
+      "photos": 12,
+      "likes": "0"
+    },
+    {
+      "author": "Rickel Usquiano",
+      "rating": "5",
+      "date": "Hace 7 años",
+      "text": "Centro Clínico, buena atención. Buena infraestructura, cuenta con farmacia. Un buen staff médico encabezado por el Dr. Óscar Dávila.",
+      "photos": 105,
+      "likes": "0"
+    },
+    {
+      "author": "Alexa Rebaza",
+      "rating": "5",
+      "date": "Fecha de edición: Hace 6 años",
+      "text": "La atención de los recepcionistas es excelente y tienes profesionales recomendados.",
+      "photos": 105,
+      "likes": "0"
+    }
+  ]
+}

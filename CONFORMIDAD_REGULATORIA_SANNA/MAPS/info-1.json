@@ -1,0 +1,108 @@
+{
+  "url": "https://maps.app.goo.gl/LYzSrVvXFzayXfx86",
+  "nombre": "Centro Médico SANNA Sede PRO",
+  "ubicacion": "Av. Alfredo Mendiola 7749, Los Olivos 15307",
+  "rating_global": "4.5",
+  "total_reviews": "4",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "Cerrado"
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "908 875 710",
+    "referencia": "3W6H+45 Los Olivos"
+  },
+  "reviews": [
+    {
+      "author": "Vladimir Flores",
+      "rating": "5",
+      "date": "Hace 5 meses",
+      "text": "Me toco un médico malcriado, dice que es Radiologo, pero para el resultado de una simple ecografia renal se demora 24 horas. Como las clínicas suelen contratar a residentes del 1er año, tengo desconfianza.",
+      "photos": 20,
+      "likes": "0"
+    },
+    {
+      "author": "Samuel Poma",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "Muy buen centro médico, buenos especialistas",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Camilo",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "Una buena atención y profesionales al servicio",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Yohan perez",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "Excelente servicio",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "julio antonio",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "Muy bueno 😊…",
+      "photos": 1,
+      "likes": "0"
+    },
+    {
+      "author": "Aldahir Huamansolorzano",
+      "rating": "5",
+      "date": "Hace 7 meses",
+      "text": "Buenos médicos y especialistas",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Lida ada Espinoza obregon",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Gianmarco Rivera Olivera",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "",
+      "photos": 0,
+      "likes": "0"
+    }
+  ]
+}

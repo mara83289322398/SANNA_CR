@@ -1,0 +1,52 @@
+{
+  "url": "https://maps.app.goo.gl/Wkkf1WaSaht9TgpU8",
+  "nombre": "SANNA \\ Centro Clínico KM40 (I-2)",
+  "ubicacion": "M5Q7+FHF los, C. El Pulpo, Ctra. Panamericana Sur y, Punta Hermosa 15846, Lurín 15846",
+  "rating_global": "5.0",
+  "total_reviews": "5",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "8 a. m.–8 p. m."
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(01) 6355000",
+    "referencia": "M5Q7+FH Lurín"
+  },
+  "reviews": [
+    {
+      "author": "Nelva Luz Ratachi Rojas",
+      "rating": "5",
+      "date": "Hace 2 meses",
+      "text": "",
+      "photos": 0,
+      "likes": "0"
+    }
+  ]
+}

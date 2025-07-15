@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/3YoJDkZKQQ1HkznW7",
+  "nombre": "SANNA \\ Clínica Sánchez Ferrer",
+  "ubicacion": "Av, Los Laureles 436, Trujillo 13009",
+  "rating_global": "3.4",
+  "total_reviews": "3",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "7 a. m.–8:30 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "7 a. m.–8:30 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "7 a. m.–8:30 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "7 a. m.–8:30 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "7 a. m.–8:30 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–8:30 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "Cerrado"
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(044) 601050",
+    "referencia": "VX96+X6 Trujillo"
+  },
+  "reviews": [
+    {
+      "author": "ALEXANDER",
+      "rating": "5",
+      "date": "Hace 2 meses",
+      "text": "Esperando más de 2 horas para que me atiendan y sacando cita, no entiendo porque solicitan que saquen citas y llaman para confirmar si ni ellos mismos cumplen, ni más me atiendo en esta clínica, mejor es la San Pablo.",
+      "photos": 45,
+      "likes": "0"
+    },
+    {
+      "author": "Nicole Farfan",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "Acudí a emergencias debido a una serie de sintomas que me generaron gran preocupación por mi salud. Durante mi visita, tuve una experiencia desagradable por fallas en su sistema y tiempos de espera excesivos:…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Arelli Huamanchumo",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "Excelente trato, ambiente y servicio, hacen seguimiento para que el paciente no olvide acudir a sus citas agendadas y programaciones de se los servicios posteriores a la consulta.",
+      "photos": 227,
+      "likes": "0"
+    },
+    {
+      "author": "Pingui",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "Cumple con los protocolos de seguridad, es limpia , creo una de las mejores de Trujillo, tiene buenos médicos, sus ambientes ventilados y limpios, y están agrandandola, lo malo es que está en una calle angosta y siempre se congestiona por…",
+      "photos": 395,
+      "likes": "0"
+    },
+    {
+      "author": "Josemar Gonzalez Chinchayan",
+      "rating": "5",
+      "date": "Hace 4 años",
+      "text": "Llegue a atenderme con seguro particular, tenia un corte en la frente, la herida estaba fresca ya que recién había tenido el accidente, se demoraron en atenderme aunque vieron que tenia la herida sangrando, esperaba más de la atención,…",
+      "photos": 136,
+      "likes": "0"
+    },
+    {
+      "author": "Pepecondev",
+      "rating": "5",
+      "date": "Hace 5 meses",
+      "text": "Su local de hortensias no tiene ascensor, eso es lamentable para las personas que tienen problemas para subir gradas, sea por lesiones o edad. Y quien autoriza este tipo de locales?",
+      "photos": 99,
+      "likes": "0"
+    },
+    {
+      "author": "Reynaldo Noriega Urquizo",
+      "rating": "5",
+      "date": "Hace 3 semanas",
+      "text": "No aconsejo llamar por teléfono, la señorita muy mal educada se nota que no le gusta su trabajo, la verdad no volvería a llamar para nada.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Manuel Aguilar",
+      "rating": "5",
+      "date": "Hace 4 años",
+      "text": "Para ser una clínica privada, su atención al público es pésima. Cuatro ventanillas con personal pero solo 2 atendiendo. Un jovencito que no quiere atender y solo él sabe qué está haciendo. Se supone que están ahí para atender al público. En ESSALUD me atienden más rápido.",
+      "photos": 161,
+      "likes": "0"
+    },
+    {
+      "author": "Milly Merino",
+      "rating": "5",
+      "date": "Hace 3 años",
+      "text": "El ambiente del laboratorio es reducido los.pacientes tenemos.q estar acinados para registro y atención,  no hacen respetar los protocolos contra el Covid",
+      "photos": 1,
+      "likes": "0"
+    },
+    {
+      "author": "Marco Bollenbach Rodriguez",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "Muy mala experiencia. No es posible obtener una respuesta razonable. El personal de la centralita es increíblemente deficiente y se limita a decirte que te acerques si tienes alguna pregunta. Nadie del departamento correspondiente contesta…",
+      "photos": 0,
+      "likes": "0"
+    }
+  ]
+}

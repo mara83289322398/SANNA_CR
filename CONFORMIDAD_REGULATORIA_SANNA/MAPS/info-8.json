@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/KAP2kW5TbXWAmt3m7",
+  "nombre": "SANNA \\ Centro Clínico San Miguel",
+  "ubicacion": "Av. de la Marina 2251, San Miguel 15088",
+  "rating_global": "3.0",
+  "total_reviews": "3",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "8 a. m.–8 p. m."
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(01) 6355000",
+    "referencia": "WWC7+MH San Miguel"
+  },
+  "reviews": [
+    {
+      "author": "Deysi Alejandria Tarrillo",
+      "rating": "5",
+      "date": "Hace un mes",
+      "text": "La atención cion pésima, las de admisión creen que es público y te hacen esperar a pesar que no hay nadie  se hacen las locas y no atienden  y cada vez que l3s haces preguntas te mandan al segundo piso, del segundo te bajan al primero y así…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Angela Bravo",
+      "rating": "5",
+      "date": "Hace 2 meses",
+      "text": "Es bueno, muy buen ambiente. Poca gente. Los médicos muy amables y los de farmacia también, pero la atención en admisión piso 1, 3 no es buena, ae ponen a conversar y no son amables.",
+      "photos": 10,
+      "likes": "0"
+    },
+    {
+      "author": "Cesar Gonzales",
+      "rating": "5",
+      "date": "Hace un mes",
+      "text": "Doctores sin criterio y terrible gestión en admisión, además de que no se puede pagar en línea como si lo permiten las otras sedes. Si vienen por atención de EPS de preferencia elijan otra sede.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Ronald Alvarez",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "Pésimo servicio, las especialidades solo ven lo más básico y simple, te derivan a otras sedes luego de haber pagado en vano. No tiene sistema para pagos en línea, su sistema presencial no funciona, la farmacia no tiene stock de medicamentos, venir a esta clinica es una pérdida de tiempo y de dinero",
+      "photos": 17,
+      "likes": "0"
+    },
+    {
+      "author": "Mayra Alexandra Campos",
+      "rating": "5",
+      "date": "Hace 3 meses",
+      "text": "Excelente atención! Me atendieron puntual y la doctora fue muy amable, la recepción fue muy amena. Además nos brindaron merch del lugar. Volvería nuevamente",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Mafer",
+      "rating": "5",
+      "date": "Hace 2 meses",
+      "text": "El servicio de caja es ineficiente y generan demoras innecesarias por conversar entre el personal por varios minutos antes de atender los turnos. Vayan con tiempo porque definitivamente se demorarán pagando",
+      "photos": 2,
+      "likes": "0"
+    },
+    {
+      "author": "Julia Espinoza",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "Dermatologa Valladares 100% recomendada\nTambién todo ginecología  100% recomendado\nLlevo años en otras clínicas de renombre donde no me daban el correcto…",
+      "photos": 21,
+      "likes": "0"
+    },
+    {
+      "author": "TANIA JOANNA MEDINA ROJAS",
+      "rating": "5",
+      "date": "Hace 3 meses",
+      "text": "Se demoran un montón en atenderte, estuve esperando 2h para la atención de odontologia y no respetan las citas.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Felipe Guevara",
+      "rating": "5",
+      "date": "Hace 7 meses",
+      "text": "Si quieren perder su tiempo, ser muy mal atendidos y tener una muy mala experiencia en la peor clínica de San Miguel, vengan a esta basura de Clinica. Hemos estado más de 3 horas, nos han paseado por todos los pisos, nadie sabía nada, las…",
+      "photos": 2,
+      "likes": "0"
+    },
+    {
+      "author": "Salinas Rios",
+      "rating": "5",
+      "date": "Hace 7 meses",
+      "text": "Muy mal servicio, de parte de las srtas. De admisión, se demoran 1 hora en hacer una boleta, los doctores estan amargados y llegan tarde y no se disculpan, muy malcriados. Te cancelan las citas el mismo dia, pésimo lugar, no lo recomiendo en absoluto.",
+      "photos": 12,
+      "likes": "0"
+    }
+  ]
+}

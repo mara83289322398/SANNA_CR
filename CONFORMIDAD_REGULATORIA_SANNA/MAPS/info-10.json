@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/i8XKuzLMr4Zf8dbt6",
+  "nombre": "SANNA \\ Centro Clínico Los Olivos",
+  "ubicacion": "Av. Alfredo Mendiola 3549 - 3551, Los Olivos 15301",
+  "rating_global": "3.7",
+  "total_reviews": "3",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "8 a. m.–8 p. m."
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(01) 6355000",
+    "referencia": "2W4P+G9 Los Olivos"
+  },
+  "reviews": [
+    {
+      "author": "Kathy Zevallos Flores",
+      "rating": "5",
+      "date": "Hace 2 semanas",
+      "text": "Me atendieron muy bien para mis requisitos de certificado medico, todo 3l personal muy amable.",
+      "photos": 24,
+      "likes": "0"
+    },
+    {
+      "author": "Paul Varillas Torres",
+      "rating": "5",
+      "date": "Hace 5 meses",
+      "text": "Excelente servicio. Asistí por una urgencia y me atendieron muy bien, todos muy amables y profesionales. La atención fue buena desde la admisión hasta la doctora que tuvo la paciencia y profesionalismo para asegurarse de que me sienta bien en todo momento.",
+      "photos": 19,
+      "likes": "0"
+    },
+    {
+      "author": "Omar",
+      "rating": "5",
+      "date": "Hace un mes",
+      "text": "El EPS en odontología está pintado casi no aplica en nada, los precios están por las nubes, mucho más barato que en tu dentista de tu barrio.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Anita Silva Chávez",
+      "rating": "5",
+      "date": "Hace 3 meses",
+      "text": "Todos muy educados, el personal de seguridad fueron amanles, la recepcionista muy amable tmb, el lugar está bien cuidado y limpio y la atención del médico oftalmólogo fue muy buena, se tomó su tiempo y reviso a mi pequeña muy bien, respondió todas mis preguntas, quedé bastante satisfecha.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Deysi Trujillo",
+      "rating": "5",
+      "date": "Hace 7 meses",
+      "text": "Mala atención, me citaron a las 10am para lo cual debía pasar por 2 áreas, la primera no se demoró mucho, sin embargo, para la segunda área esperé hasta las 2:30pm, demasiado descoordinado y las chicas encargadas de ubicarte en cada área ni…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Massiel Paredes Aponte",
+      "rating": "5",
+      "date": "Hace una semana",
+      "text": "Llamo para agendar cita y no contesta o cortan la llamada, pésimo servicio",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Shirley Sanchez",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "Me atendí en el área de medicina y rehabilitación, las señoritas que me atienden en la terapia son muy buenas y amables.…",
+      "photos": 2,
+      "likes": "0"
+    },
+    {
+      "author": "Vladimir Flores",
+      "rating": "5",
+      "date": "Hace 5 meses",
+      "text": "Pésima la atención del medico para una simple ecografia, encima el resultado es en 24 horas. No presta confianza. No lo recomiendo.",
+      "photos": 20,
+      "likes": "0"
+    },
+    {
+      "author": "Miguel Tesén Romero",
+      "rating": "5",
+      "date": "Fecha de edición: Hace un año",
+      "text": "Primera vez atendiéndome acá, y bastante positivo. Atención muy amable, sobretodo por parte de los especialistas (al menos dermatología y odontología). Lo mejor es que con la EPS los medicamentos son gratuitos, desconozco si es solo acá o…",
+      "photos": 295,
+      "likes": "0"
+    },
+    {
+      "author": "kro meza",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "Exelente atención, aún no están disponibles todas las especialidades, tampoco se saca cita x teléfono aún, pero si hay atención y x EMERGENCIA también.",
+      "photos": 179,
+      "likes": "0"
+    }
+  ]
+}

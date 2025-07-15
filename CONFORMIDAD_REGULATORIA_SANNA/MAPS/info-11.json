@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/asFKEZzDyFuaNig5A",
+  "nombre": "SANNA - Centro Clínico Miraflores",
+  "ubicacion": "Av. Alfredo Benavides 1936, Miraflores 15048",
+  "rating_global": "2.5",
+  "total_reviews": "2",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "7:15 a. m.–9 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "7:15 a. m.–9 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "7:15 a. m.–9 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "7:15 a. m.–9 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "7:15 a. m.–9 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "7 a. m.–1 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "Cerrado"
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(01) 6355000",
+    "referencia": "VXFQ+33 Miraflores"
+  },
+  "reviews": [
+    {
+      "author": "Yessenia Juarez Chauca",
+      "rating": "5",
+      "date": "Hace 3 semanas",
+      "text": "Deberían tener un aforo de atención. Para un chequeo preventivo se demoran en solo registrarte 3 horas. No hay sillas para todas las personas que estamos aquí y nadie da información. Pésimo servicio!!!",
+      "photos": 17,
+      "likes": "0"
+    },
+    {
+      "author": "GIANNINA Buiza Garcia",
+      "rating": "5",
+      "date": "Hace 4 meses",
+      "text": "Pésima atención, personal de admisión pareciera que te hace un favor. No hay orden en la atención del paciente, me tuvieron 1 hora esperando, habiendo llegado puntual a la cita, hacian pasar a diferentes paciente que no esperan ni 1 minuto…",
+      "photos": 2,
+      "likes": "0"
+    },
+    {
+      "author": "Alice Vives",
+      "rating": "5",
+      "date": "Hace 2 semanas",
+      "text": "Demasiada burocracia para atender hay q sacar ticket hasta para q te den ticket y solo atiende una persona en los preventivo te atienden pesimo",
+      "photos": 36,
+      "likes": "0"
+    },
+    {
+      "author": "Carlos T",
+      "rating": "5",
+      "date": "Hace 5 meses",
+      "text": "Terrible atención. Nadie te brinda información clara. Se toman todo el día en atenderte no tienen un orden establecido, simplemente un caos. La peor experiencia en chequeo preventivo que me ha tocado experimentar.",
+      "photos": 18,
+      "likes": "0"
+    },
+    {
+      "author": "Mafer",
+      "rating": "5",
+      "date": "Hace 3 meses",
+      "text": "El sistema se cae y no tienen la capacidad de registrar en orden las citas, la gente se cuela y tienes que estar detrás de las licenciadas para que te hagan caso. De nada sirve pagar en línea para no hacer cola si es que tienes que hacer el mismo proceso de registro. Mal servicio.",
+      "photos": 2,
+      "likes": "0"
+    },
+    {
+      "author": "Frank Ch.",
+      "rating": "5",
+      "date": "Hace 2 años",
+      "text": "Visita por un chequeo médico preventivo con mi familia.\n\nLo bueno:…",
+      "photos": 132,
+      "likes": "0"
+    },
+    {
+      "author": "Milagros Loaiza",
+      "rating": "5",
+      "date": "Hace 6 meses",
+      "text": "Todos los meses hago los mismos análisis en laboratorio, y todos los meses vuelven a hacer las midmas coordinaciones y la espera es etetna. De espanto la burocracia para coordinar con la sede San Borja.",
+      "photos": 38,
+      "likes": "0"
+    },
+    {
+      "author": "Kimberly Vivas Ojeda",
+      "rating": "5",
+      "date": "Hace 8 meses",
+      "text": "¡La atención es un caos! No te informan el tiempo de duración del chequeo oncológico, ni te explican los procedimientos a seguir. Las enfermeras y el personal de la clínica no dominan la información de los procedimientos. Un verdadero desastre.",
+      "photos": 15,
+      "likes": "0"
+    },
+    {
+      "author": "Andrea Cabanillas",
+      "rating": "5",
+      "date": "Hace 3 meses",
+      "text": "Lamentablemente en esta clínica no hay orientación al servicio del cliente. Sobre todo las técnicas vestidas con blusas de color lila, te tratan como si te estuvieran haciendo un favor y no están en los pisos que corresponden para derivarte…",
+      "photos": 6,
+      "likes": "0"
+    },
+    {
+      "author": "Ale R9",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "Un total desorden en la atención de los doctores, tienen una app donde reservas y sacas una cita con tiempo para una especialidad, en mi caso gastro y mi cita era a las 18:00 , me llenan de mensajes de que llegue 20 min antes y llegue 5:30…",
+      "photos": 3,
+      "likes": "0"
+    }
+  ]
+}

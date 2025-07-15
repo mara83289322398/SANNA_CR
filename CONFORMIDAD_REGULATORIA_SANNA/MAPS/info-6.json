@@ -1,0 +1,124 @@
+{
+  "url": "https://maps.app.goo.gl/e7zg6EXMDeSEv8mo9",
+  "nombre": "SANNA \\ Centro Clínico Talara",
+  "ubicacion": "Av. Bolognesi 163-167, Talara 20811",
+  "rating_global": "3.9",
+  "total_reviews": "3",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–9 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–9 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–9 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–9 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–9 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–2 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "8 a. m.–2 p. m."
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(073) 626100",
+    "referencia": "CPFJ+XC Talara"
+  },
+  "reviews": [
+    {
+      "author": "Daniel Llona",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "Un lugar limpio y ordenado, con todos los procesos de bioseguridad, la atención es de primera, el ambiente es tranquilo y con seguridad",
+      "photos": 353,
+      "likes": "0"
+    },
+    {
+      "author": "Corporación CSP",
+      "rating": "5",
+      "date": "Hace 3 años",
+      "text": "Buen centro Clínico... Diversas especialidades",
+      "photos": 191,
+      "likes": "0"
+    },
+    {
+      "author": "nohelia olano guerra",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "Cancelaron mi cita reservada sin comunicar. Pedí permiso en el trabajo para salir y llegue,pero en el lugar me comunican que no están atendiendo. Cita programada have 1 semana porque el doctor de endocrino solo atiende martes y la única…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Carlos Cotes Navarro",
+      "rating": "5",
+      "date": "Hace 3 años",
+      "text": "Muy deficiente la evaluación de exámenes clínicos y los conceptos físicos  y restricciónes emitidas apresuradamente por los galenos evaluadores, los cuales fueron desvirtuados con contra muestras evaluadas en otros laboratorios y conceptos…",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Miguel Dubbins Rosillo Arrunategui",
+      "rating": "5",
+      "date": "Fecha de edición: Hace 7 años",
+      "text": "Pesima atención para ser una clínica de está categoría.  Si digo esto es porque mi familia vivió todo esto cuando se fumaba atender. Servicio paupérrimo.",
+      "photos": 50,
+      "likes": "0"
+    },
+    {
+      "author": "Eduardo Cherres Ordoñez",
+      "rating": "5",
+      "date": "Hace 6 años",
+      "text": "Todo bien desde el inicio con su respectivo ticket admisión excelente tópico tmb con la Doctora excelente farmacia muy buena atención laboratorio bueno y con sus recomendaciones gracias",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "Estuardo Lescano Amaya",
+      "rating": "5",
+      "date": "Fecha de edición: Hace 6 años",
+      "text": "Se brinda atención en Reumatología 1 a 2 veces al mes. Dolores articulares, dolores de cuerpo, artritis, osteoporosis. Se hacen infiltraciones por médico especialista.",
+      "photos": 37,
+      "likes": "0"
+    },
+    {
+      "author": "Carlos Melendez",
+      "rating": "5",
+      "date": "Hace 6 años",
+      "text": "Muy buena atención. Debo regresar, lo haré con mucho gusto.",
+      "photos": 0,
+      "likes": "0"
+    },
+    {
+      "author": "david wilfredo franco rojas",
+      "rating": "5",
+      "date": "Hace 5 años",
+      "text": "Muy buena atención, personal medico muy calificado y son muy amables en la atención.",
+      "photos": 15,
+      "likes": "0"
+    },
+    {
+      "author": "Paulo Sarmiento",
+      "rating": "5",
+      "date": "Fecha de edición: Hace 6 años",
+      "text": "Me atendieron muy rapido, el medico dejo mucho que desear. Esp Otorrino.",
+      "photos": 496,
+      "likes": "0"
+    }
+  ]
+}

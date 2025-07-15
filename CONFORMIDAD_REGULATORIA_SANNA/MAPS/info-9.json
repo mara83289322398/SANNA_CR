@@ -1,0 +1,52 @@
+{
+  "url": "https://maps.app.goo.gl/akR8TfbtV7C91pNB9",
+  "nombre": "SANNA \\ San Juan de Lurigancho",
+  "ubicacion": "Av. Próceres de la Independencia 2047, San Juan de Lurigancho 15419",
+  "rating_global": "5.0",
+  "total_reviews": "5",
+  "info_adicional": {
+    "horarios": [
+      {
+        "dia": "lunes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "martes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "miércoles",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "jueves",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "viernes",
+        "horas": "8 a. m.–8 p. m."
+      },
+      {
+        "dia": "sábado",
+        "horas": "8 a. m.–1 p. m."
+      },
+      {
+        "dia": "domingo",
+        "horas": "Cerrado"
+      }
+    ],
+    "sitio_web": "sanna.pe",
+    "telefono": "(01) 6355000",
+    "referencia": "2X2R+C5 San Juan de Lurigancho"
+  },
+  "reviews": [
+    {
+      "author": "bruno torres bernal",
+      "rating": "5",
+      "date": "Hace un año",
+      "text": "Bien atentos todo bien",
+      "photos": 0,
+      "likes": "0"
+    }
+  ]
+}
